@@ -13,27 +13,24 @@ A Python script that extracts the top news headlines from **El Universal** (Mexi
 
 ---
 
-## 🧰 Technologies Used
-
-- `Python 3`
-- `requests`
-- `BeautifulSoup (bs4)`
-- `datetime`
-- `json`
-
-
----
-
 ## ⚙️ How to Use
 
-1. Clone my repository:
+1. Clone the repository:
 
-```bash
+```
 git clone https://github.com/RicardoRG44/news_scraper_mx.git
 cd news_scraper_mx
-
-1. Clone my repository:
-
+```
+2. Install the dependencies
+```
+pip install -r requierements.txt
+```
+3.Run the script
+```
+Python main.py
+```
+4.
+you´ll see the headlines printed in the console and saved to output/
 
 
 
