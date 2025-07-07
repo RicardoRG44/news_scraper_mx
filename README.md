@@ -22,6 +22,18 @@ A Python script that extracts the top news headlines from **El Universal** (Mexi
 - `json`
 
 
+---
+
+## ⚙️ How to Use
+
+1. Clone my repository:
+
+```bash
+git clone https://github.com/RicardoRG44/news_scraper_mx.git
+cd news_scraper_mx
+
+1. Clone my repository:
+
 
 
 
